@@ -16,6 +16,16 @@ Compiled down to a tiny **13 MB hybrid ISO**, Rio-OS can be burned to any USB fl
 
 ---
 
+## 💾 Ready-to-Use Download
+
+Don't want to build it yourself? You can download the latest compiled `rio-os.iso` directly from this repository:
+
+**👉 [Download Rio-OS v1.0 (13 MB)](/Releases/rio-os.iso?raw=true)**
+
+Use a tool like [Rufus](https://rufus.ie/en/) to burn the `.iso` to a USB flash drive (in **DD Image mode**) and boot it on any standard PC!
+
+---
+
 ## 🚀 Building from Source
 
 Rio-OS is built using **[Buildroot 2024.02.10](https://buildroot.org/)** and a heavily optimized custom Linux 6.6.70 kernel.
