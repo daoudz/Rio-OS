@@ -1,0 +1,6 @@
+Release/
+Rio-OS-source/buildroot/
+Rio-OS-source/output/
+*.iso
+*.img
+*.log
